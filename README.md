@@ -33,4 +33,4 @@ A service for checking the availability of websites and servers
 
 ## Support
 
-Join our Telegram channel: [HollywoodGhost project. service](https://t.me/HollywoodGhost_Project)
+Join our Telegram channel: [suicide_coding](https://t.me/suicide_coding)
